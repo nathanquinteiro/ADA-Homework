@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# ADA-Homework
-ADA Homework repository for our team : Nathan Quinteiro, Jeremie Mayor and Benoit Cretegny
-=======
-# Labs
-Material used during the lab sessions
->>>>>>> 18ddf59a8d8e78a4b6fd40e315854fe107c5d9f6
+# 02 - Intro to Pandas
+
+In this lab session we have explored the fundamental features of [Pandas](http://pandas.pydata.org/), and then we practiced the basics of Data Wrangling
+with some real-world datasets (credits to [fonnesbeck](https://github.com/fonnesbeck)).
