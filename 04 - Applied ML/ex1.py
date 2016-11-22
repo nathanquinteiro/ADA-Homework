@@ -1,4 +1,7 @@
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestClassifier
 
 def run_forest_importance(data, estimators = 100, features = 0.33, depth=20):
     forest = RandomForestClassifier(n_estimators = estimators, max_features=features, max_depth=depth, n_jobs=-1)
