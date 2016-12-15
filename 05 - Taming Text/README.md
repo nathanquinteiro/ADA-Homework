@@ -11,4 +11,4 @@ Our solutions is presented in file Clouds.ipynb
 
 # Exercice 3
 
-Our solutions is presented in file Ex3-corpus.ipynb 
+Our solutions is presented in file [Ex3-corpus.ipynb](https://github.com/nathanquinteiro/ADA-Homework/blob/master/05%20-%20Taming%20Text/Ex3-corpus.ipynb)
