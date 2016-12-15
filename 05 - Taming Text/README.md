@@ -1,6 +1,6 @@
 # Exercice 1
 
-Our solutions is presented in file Clouds.ipynb
+Our solutions is presented in file [Clouds.ipynb](https://github.com/nathanquinteiro/ADA-Homework/blob/master/05%20-%20Taming%20Text/Clouds.ipynb)
 
 # Exercice 2
 
